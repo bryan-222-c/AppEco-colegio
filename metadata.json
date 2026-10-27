@@ -1,0 +1,6 @@
+{
+  "name": "ECO-COLEGIO 🌱",
+  "description": "Aplicación interactiva y educativa para niños de primaria para aprender a cuidar su colegio separando residuos, reciclando y construyendo un entorno limpio y verde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
